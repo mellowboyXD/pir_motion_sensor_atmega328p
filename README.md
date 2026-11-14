@@ -4,7 +4,6 @@ Code written in C.
 
 ### Demo:
 
-<video controls width="250">
-  <source src="./demo.mp4" type="video/mp4" />
+<video controls width="250" src="./demo.mp4">
 </video>
 
