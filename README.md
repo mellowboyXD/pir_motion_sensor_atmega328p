@@ -4,6 +4,4 @@ Code written in C.
 
 ### Demo:
 
-<video controls width="250" src="./demo.mp4">
-</video>
-
+https://github.com/user-attachments/assets/81850f32-de1f-492a-84e4-85e6759c08a1
